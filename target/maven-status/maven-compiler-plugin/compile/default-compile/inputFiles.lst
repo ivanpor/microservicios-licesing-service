@@ -1,0 +1,9 @@
+/home/ivan/dev/workspaces/workspace_spring/licesing-service/src/main/java/com/testing/microservices/licesingservice/clients/OrganizationClient.java
+/home/ivan/dev/workspaces/workspace_spring/licesing-service/src/main/java/com/testing/microservices/licesingservice/model/License.java
+/home/ivan/dev/workspaces/workspace_spring/licesing-service/src/main/java/com/testing/microservices/licesingservice/controllers/LicenseServiceController.java
+/home/ivan/dev/workspaces/workspace_spring/licesing-service/src/main/java/com/testing/microservices/licesingservice/clients/OrganizationClientFallbackFactory.java
+/home/ivan/dev/workspaces/workspace_spring/licesing-service/src/main/java/com/testing/microservices/licesingservice/config/ConfigComponent.java
+/home/ivan/dev/workspaces/workspace_spring/licesing-service/src/main/java/com/testing/microservices/licesingservice/Application.java
+/home/ivan/dev/workspaces/workspace_spring/licesing-service/src/main/java/com/testing/microservices/licesingservice/clients/OrganizationFeignClient.java
+/home/ivan/dev/workspaces/workspace_spring/licesing-service/src/main/java/com/testing/microservices/licesingservice/model/Organization.java
+/home/ivan/dev/workspaces/workspace_spring/licesing-service/src/main/java/com/testing/microservices/licesingservice/clients/OrganizationClientFallBack.java
